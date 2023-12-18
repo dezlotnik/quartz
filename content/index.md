@@ -1,6 +1,9 @@
 ---
-title: Welcome to Quartz
+title: David's Notes
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+Welcome to David's Notes!
+
+- [[Algorithms and Data Structures]]
+- [[Optimal Control]]
+- [[State Estimation]]
